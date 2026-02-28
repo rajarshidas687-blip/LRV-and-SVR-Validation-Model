@@ -13,3 +13,5 @@ pandas
 numpy
 matplotlib
 scikit-learn
+Save the combined dataset from the report as name "GSR_data.xlsx"
+Update your file path in code (Generally - "C:\GSR_data.xlsx")
