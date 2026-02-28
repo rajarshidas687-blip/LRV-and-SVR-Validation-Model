@@ -9,7 +9,7 @@ import os
 # -----------------------------
 # 1. Load Excel file
 # -----------------------------
-file_path = r"C:\GSR_data.xlsx"  # Update this to your file path
+file_path = r"C:\GSR_data.xlsx"  # Save the Combined dataset and Update your file path
 df = pd.read_excel(file_path)
 
 # Verify required columns
