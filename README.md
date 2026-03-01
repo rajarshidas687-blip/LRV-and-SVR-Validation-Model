@@ -1,6 +1,6 @@
 # GSR Device Validation Study
 
-This repository contains Python code for validating GSR IC and GSR Module using:
+This repository contains Python code for validating developed GSR Circuit (made with LM317 IC) and GSR Module using:
 
 - Direct statistical comparison
 - Linear Regression equivalence
